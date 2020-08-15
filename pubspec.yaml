@@ -1,5 +1,5 @@
 name: abstract_me
-description: A new Flutter project.
+description: Generating an abstract portrait in Flutter.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -21,11 +21,10 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  permission_handler  : ^4.0.0
+  permission_handler: ^4.0.0
   share: ^0.6.3+5
   processing.dart:
-    path:
-      ./flutter_processing
+    path: ./flutter_processing
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -46,7 +45,6 @@ flutter_icons:
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -81,6 +79,5 @@ flutter:
           weight: 700
         - asset: fonts/RobotoMono-Italic.ttf
           style: italic
-  
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

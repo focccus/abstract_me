@@ -1,16 +1,9 @@
 # abstract_me
 
-A new Flutter project.
+![abstract_me screenshots](https://i.imgur.com/CJ4VaKK.png)
 
-## Getting Started
+This is a Flutter experiment. What if an app could draw a portrait of you? Well using the camera would be too boring, so I used generic data like name, birth date, opinions and generative art to create an abstract image of yourself.
 
-This project is a starting point for a Flutter application.
+This image will be totally different for each and every person incorparating over 100 Parameters.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project explored different layers, making a drawing libary and utilizes Flutters CustomPaint. Everything packed in a minimal design and supporting localization.
